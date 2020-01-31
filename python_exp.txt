@@ -1,0 +1,8 @@
+https://wiki.python.org/moin/SimplePrograms
+https://www.pythonforbeginners.com/code-snippets-source-code/python-code-examples
+https://codescracker.com/python/program/
+https://www.sanfoundry.com/python-problems-solutions/
+https://beginnersbook.com/2018/02/python-programs/
+https://www.programiz.com/python-programming/examples
+https://www.geeksforgeeks.org/python-programming-examples/
+https://skillcrush.com/2019/08/25/python-programming-examples/
